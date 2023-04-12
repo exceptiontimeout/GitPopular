@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gitpopular/static/css/main.5b277643.chunk.css",
+    "main.js": "/gitpopular/static/js/main.704de614.chunk.js",
+    "main.js.map": "/gitpopular/static/js/main.704de614.chunk.js.map",
+    "runtime-main.js": "/gitpopular/static/js/runtime-main.24c3cf56.js",
+    "runtime-main.js.map": "/gitpopular/static/js/runtime-main.24c3cf56.js.map",
+    "static/css/2.34d4fee1.chunk.css": "/gitpopular/static/css/2.34d4fee1.chunk.css",
+    "static/js/2.54a68db7.chunk.js": "/gitpopular/static/js/2.54a68db7.chunk.js",
+    "static/js/2.54a68db7.chunk.js.map": "/gitpopular/static/js/2.54a68db7.chunk.js.map",
+    "index.html": "/gitpopular/index.html",
+    "precache-manifest.26935b3cc44091d7bdaff0312774f165.js": "/gitpopular/precache-manifest.26935b3cc44091d7bdaff0312774f165.js",
+    "service-worker.js": "/gitpopular/service-worker.js",
+    "static/css/2.34d4fee1.chunk.css.map": "/gitpopular/static/css/2.34d4fee1.chunk.css.map",
+    "static/css/main.5b277643.chunk.css.map": "/gitpopular/static/css/main.5b277643.chunk.css.map",
+    "static/js/2.54a68db7.chunk.js.LICENSE.txt": "/gitpopular/static/js/2.54a68db7.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/gitpopular/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24c3cf56.js",
+    "static/css/2.34d4fee1.chunk.css",
+    "static/js/2.54a68db7.chunk.js",
+    "static/css/main.5b277643.chunk.css",
+    "static/js/main.704de614.chunk.js"
+  ]
+}
